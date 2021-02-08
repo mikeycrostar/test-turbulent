@@ -1,0 +1,7 @@
+.line {
+    border: 2px dotted black;
+    cursor: grab;
+    padding: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
